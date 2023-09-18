@@ -22,7 +22,7 @@ requirements:
   host:
     - python
     - pip
-    - cython
+    - cython <3
     - cythongsl
     - numpy
     - gsl
